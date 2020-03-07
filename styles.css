@@ -1,0 +1,37 @@
+.header {
+  background: linen;
+}
+
+h1 {
+  color: #fcb3ae;
+}
+
+a {
+  color: black;
+}
+
+body {
+  font-family: monospace;
+  font-size: 15px;
+  background-color: #ffe0de;
+}
+
+.hobbies {
+  background: linen;
+}
+
+.contact {
+  background: linen;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: linen;
+  border-width: 3px;
+  width: 100%;
+}
+
+footer {
+  align-content: stretch;
+}
